@@ -1,2 +1,2 @@
-# hello-world
-A short introducion about how to use GitHub
+# creating-a-new-branch
+This is not as hard as programming with Brainf**k! :D
